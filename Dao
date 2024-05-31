@@ -1,0 +1,4 @@
+
+my_string = "Пример строки"
+print(my_string.lower())
+
